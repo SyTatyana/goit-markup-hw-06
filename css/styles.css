@@ -667,7 +667,7 @@ letter-spacing: 0.03em;
     margin-bottom: 9px;
 }
 .footer-contact{
-color: var(--footer-contact);
+color: rgba(255, 255, 255, 0.6);
 font-style: normal;
 }
 .footer-flex {

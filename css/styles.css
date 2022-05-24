@@ -336,12 +336,12 @@ text-transform: uppercase;
 
 .form-input:focus,
 .form-textarea-comment:focus {
-    border-color: var(--selection-color);
+    border-color: var(--accent-color);
     outline: none;
 }
 
 .form-input:focus+.form-icon {
-    fill: var(--selection-color);
+    fill: var(--accent-color);
 }
 
 .icon-container {
